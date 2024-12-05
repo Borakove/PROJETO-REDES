@@ -1,0 +1,47 @@
+<svg viewBox="0 0 500 700" xmlns="http://www.w3.org/2000/svg">
+
+    <defs>
+        <linearGradient id="layer-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" style="stop-color:#2c3e50;stop-opacity:1" />
+            <stop offset="100%" style="stop-color:#34495e;stop-opacity:1" />
+        </linearGradient>
+    </defs>
+    
+    
+    <text x="250" y="40" text-anchor="middle" font-size="24" fill="#2c3e50" font-weight="bold">Modelo OSI</text>
+    
+    
+    <rect x="100" y="80" width="300" height="70" rx="5" fill="url(#layer-gradient)" />
+    <text x="250" y="115" text-anchor="middle" fill="white" font-size="18">7. Camada de Aplicação</text>
+    <text x="250" y="135" text-anchor="middle" fill="white" font-size="14">HTTP, FTP, SMTP, DNS</text>
+
+    
+    <rect x="100" y="160" width="300" height="70" rx="5" fill="url(#layer-gradient)" />
+    <text x="250" y="195" text-anchor="middle" fill="white" font-size="18">6. Camada de Apresentação</text>
+    <text x="250" y="215" text-anchor="middle" fill="white" font-size="14">SSL/TLS, Codificação</text>
+
+
+    <rect x="100" y="240" width="300" height="70" rx="5" fill="url(#layer-gradient)" />
+    <text x="250" y="275" text-anchor="middle" fill="white" font-size="18">5. Camada de Sessão</text>
+    <text x="250" y="295" text-anchor="middle" fill="white" font-size="14">NetBIOS, RPC</text>
+
+    
+    <rect x="100" y="320" width="300" height="70" rx="5" fill="url(#layer-gradient)" />
+    <text x="250" y="355" text-anchor="middle" fill="white" font-size="18">4. Camada de Transporte</text>
+    <text x="250" y="375" text-anchor="middle" fill="white" font-size="14">TCP, UDP</text>
+
+
+    <rect x="100" y="400" width="300" height="70" rx="5" fill="url(#layer-gradient)" />
+    <text x="250" y="435" text-anchor="middle" fill="white" font-size="18">3. Camada de Rede</text>
+    <text x="250" y="455" text-anchor="middle" fill="white" font-size="14">IP, ICMP, IGMP</text>
+
+
+    <rect x="100" y="480" width="300" height="70" rx="5" fill="url(#layer-gradient)" />
+    <text x="250" y="515" text-anchor="middle" fill="white" font-size="18">2. Camada de Enlace</text>
+    <text x="250" y="535" text-anchor="middle" fill="white" font-size="14">Ethernet, Wi-Fi</text>
+
+
+    <rect x="100" y="560" width="300" height="70" rx="5" fill="url(#layer-gradient)" />
+    <text x="250" y="595" text-anchor="middle" fill="white" font-size="18">1. Camada Física</text>
+    <text x="250" y="615" text-anchor="middle" fill="white" font-size="14">Cabos, Sinais, Bits</text>
+</svg>
