@@ -65,7 +65,7 @@ projeto-redes/
 ```
 
 ## 🚀 Como Usar
-1. Acesse o site através do link: [https://Borakove.github.io/projeto-redes](https://Borakove.github.io/projeto-redes)
+1. Acesse o site através do link: [https://Borakove.github.io/projeto-redes](https://borakove.github.io/PROJETO-REDES/)
 2. Use o menu de navegação para explorar diferentes seções
 3. Interaja com os diagramas e tabelas
 4. Consulte as referências para aprofundamento
