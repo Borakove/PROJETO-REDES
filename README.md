@@ -54,12 +54,12 @@ O site está organizado nas seguintes seções:
 projeto-redes/
 ├── index.html
 ├── styles/
-│   ├── main.css         # Estilos principais
-│   └── components.css   # Estilos dos componentes
+│   ├── main.css        
+│   └── components.css   
 ├── js/
-│   └── main.js          # JavaScript para interatividade
+│   └── main.js         
 └── assets/
-    └── diagrams/        # Diagramas SVG
+    └── diagrams/      
         ├── osi.svg
         └── encapsulation.svg
 ```
@@ -87,10 +87,9 @@ O site é compatível com:
 
 ## ⚙️ Instalação Local
 ```bash
-# Clone o repositório
+
 git clone https://github.com/Borakove/projeto-redes.git
 
-# Entre no diretório
 cd projeto-redes
 
 # Abra o index.html em um servidor local
